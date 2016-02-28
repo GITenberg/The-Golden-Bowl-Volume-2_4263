@@ -1,0 +1,29 @@
+_repo: The-Golden-Bowl-Volume-2_4263
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Art -- Collectors and collecting -- Fiction'
+- !lcsh 'Americans -- England -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Adultery -- Fiction'
+- !lcc 'PS'
+title: The Golden Bowl — Volume 2
+url: http://www.gutenberg.org/ebooks/4263
